@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and most miraculous narrative, of a child born with two tongues, at the lower end of East-Smithfeild [sic] in the suburbs of London, &amp;c. who three dayes after his birth, was heard plainly, and expresly [sic] to cry out, A king, a king, a king ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94934</idno>
+            <idno type="STC">Wing T2511A</idno>
+            <idno type="STC">ESTC R185551</idno>
+            <idno type="EEBO-CITATION">42475244</idno>
+            <idno type="OCLC">ocm 42475244</idno>
+            <idno type="VID">151400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and most miraculous narrative, of a child born with two tongues, at the lower end of East-Smithfeild [sic] in the suburbs of London, &amp;c. who three dayes after his birth, was heard plainly, and expresly [sic] to cry out, A king, a king, a king ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Harper neer the Hospital Gate in Smithfield,</publisher>
+                  <pubPlace>[London]</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abnormalities, Human.</term>
+               <term>Tongue --  Abnormalities.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151400:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>THE True and moſt miraculous Narrative, of a Child born WITH <hi>TWO TONG<g ref="char:V">Ʋ</g>ES,</hi> At the lower end of <hi>Eaſt-Smithfeild,</hi> in the Suburbs of <hi>London, &amp;c.</hi>
+            </p>
+            <p>Who three dayes after his Birth, was heard plainly, and expreſly to cry out, <hi>A King, a King, a King,</hi> Which it hath ever ſince continued, to the ad<g ref="char:EOLhyphen"/>miration of all that hear it.</p>
+            <p>As alſo its being ſent for by divers Perſonages of the Greateſt Dignity, and many Honorable Ladies in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> who not contented to behold, and but one time to hear it, have ſent their Coaches for it again and again.</p>
+            <p>Together with the many various Interpretations and Conſtructi<g ref="char:EOLhyphen"/>ons that every where are made of it.</p>
+            <q>
+               <bibl>Horat. Serm. Lib. 1.</bibl>
+               <p>Nec ſi quid miri fecit Natura, Deos id<lb/>
+Triſtes ex alto coeli dimitere tecto.</p>
+            </q>
+            <p>Printed for <hi>R. Harper</hi> neer the <hi>Hoſpital</hi> Gate in <hi>Smithfield,</hi> 1659.</p>
+            <pb facs="tcp:151400:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:151400:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151400:3"/>
+            <!-- PDF PAGE 15 -->
+            <pb n="1" facs="tcp:151400:3"/>
+            <!-- PDF PAGE 15 -->
+            <head>The True and moſt Miraculous Narrative of a Childe born with <hi>Two Tongues,</hi> At the lower End of <hi>Eaſt-Smithfield,</hi> in the Subburbs of <hi>London,</hi> &amp;c.</head>
+            <head type="sub">Who Three Dayes after his Birth, was heard plainly and expreſsly to cry out <hi>a King, a King, a King;</hi> Which it hath ever ſince continued, to the Admiration of all that hear it.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O have two Tongues is commonly the property of a Diſſembler, that is to ſay, to have two Hearts, and one Tongue; for though the tranſgreſſion of the Heart be layed to the diſſimulation of the Tongue; the Tongue is not ſo much guilty of it, as is the Heart, that doth ſign, and dictate to it. It is the property of a Wiſe man to have his Tongue in his Heart, (ſaith the wiſeſt of men;) but if every man ſhould have as many Tongues to expreſſe his thoughts, as he hath a heart that conſpires with his head to contrive them, how many Monſters would there be in Nature?</p>
+            <p>But though the Tongue be oftentimes a Diſſembler, yet Truth it ſelf (for the honour of the Tongue) will not have it to be diſſembled; that the Tongue is a moſt Neceſſary Inſtrument, and attended with as much won<g ref="char:EOLhyphen"/>der, and prophecy, when God peculiarly doth pleaſe to move it, as it is with lyes, and vanities, when God doth leave it to it ſelf. We will deſcend by degrees to
+<pb n="2" facs="tcp:151400:4"/>
+               <!-- PDF PAGE 16 -->the obſervation of this Truth, and we will indevour to be as plain as poſſibly we can, for we know to whom we write.</p>
+            <p>The firſt double Tongue that ever was in the World, was the Tongue of the Devil, when in the form of a Serpent he courted <hi>Adam</hi> and <hi>Eve,</hi> to tranſgreſſe the Commandement of the Almighty. <hi>Adam</hi> before was as entire in his Tongue, as he was in his Innocence; There was then in the World but one Language. and there nee<g ref="char:EOLhyphen"/>ded but one tongue to expreſs that Language. Deceit was not known in Nature, unleſſe it was only in the Nature of the Serpent, into which Nature the Devil did transform himſelf, and having tempted Man to ſin by a ſecret tincture, and an Infection of as much Ambit<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on as crawling Corruption, he hath ever ſince made Man almoſt as ſerpentine as himſelf.</p>
+            <p>Man being thus infected with a double Tongue from the Devil, behold a puniſhment proportioned to the Nature of his Offence. It was the double or the for<g ref="char:EOLhyphen"/>ked Tongue of the Serpent that tempted Man to ſin, and God will revenge it with his forked Thunderbolts, which indeed had ſunk mankind into the Pit of eternal darkneſſe, had he not in this wilderneſſe of affliction been releived with the Sight of a better Serpent, who after the immortal honour of his ignominious Death, by the won<g ref="char:EOLhyphen"/>der of cloven Tongues which appeared like Fire, did teſtifie unto him the wonder of his Reſurrection, ſo ſa<g ref="char:EOLhyphen"/>ving unto Mankind, that <hi>whoſoever calleth on his Name ſhall be ſaved.</hi>
+            </p>
+            <p>The <hi>Iſraelites</hi> heretofore for their murmuring, had been bitten with fiery Serpents, the ſins of their Tongues being puniſhed with the Teeth of the Serpents, their murmuring Tongues being like fiery Serpents, by which their ſins were chaſtiſed and expounded.</p>
+            <p>And as the Brazen Serpent was lifted up in the Wil<g ref="char:EOLhyphen"/>derneſſe,
+<pb n="3" facs="tcp:151400:4"/>
+               <!-- PDF PAGE 16 -->ſo was the Son of Man lifted upon the Croſſe, and conferred the gift of Cloven Tongues on thoſe that loved him, that all Nations might partake as well of the bleſſing, as they heard of the wonder of his Reſurrection.</p>
+            <p>In the Contemplation of this I ſtand amazed, I find a Wheel turned in a Wheele, a Sphere wrapt in a Sphere, eſpecially when after this guift of a Cloven Tongue, I do read: That it ſhall come to paſſe in the laſt dayes, that the Lord will poure out his Spirit on all fleſh, and their Sons and their Daughters ſhall prophecy: And on my Servants, and on my Hand-maids, ſaith the Lord, I will poure out of my Spirit in thoſe days, and they ſhall prophecy.</p>
+            <p>The Beaſts who had cloven Feet, were accounted clean in the Old Law, and we find the Cloven Tongues to be the myſtical Tokens of much happineſſe to come in the new. They were the Interpreters of the Sheet which St. <hi>Peter</hi> ſaw, and what it contained before the four corners of it were knit together. They were the Pro<g ref="char:EOLhyphen"/>phets that foretold the Goſpel of Salvation, which ſhould be preached now as well unto the Gentiles as to the Jews.</p>
+            <p>This is inſerted, to take off the Imputation which the World doth commonly faſten on double Tongues, not that they are guiltleſſe, for a double Tongue, and a double Heart, go oftentimes together. A double Tongue for the moſt part is a falſe Tongue, and the Devil is the Father of lyes, and may have a Cloven Tongue, as well as a Cloven Foot. But the Child of whom we come now to ſpeak, hath not as it ſeems a double Tongue, nor a cloven, or a divided Tongue, but two Tongues, one lapped over the other, and is as wonderful in his Lan<g ref="char:EOLhyphen"/>guage, both in the earlineſſe, and the Senſe of it, as he is in the Supernumerary Member.</p>
+            <p>
+               <hi>Michael Scotus</hi> in his Book <hi>De ſecretis Naturae,</hi> diſ<g ref="char:EOLhyphen"/>courſeth
+<pb n="4" facs="tcp:151400:5"/>
+               <!-- PDF PAGE 17 -->why ſome Men have ſix Fingers, and why many men have one Thumb joyned to another, which is not of the ſame length and bigneſſe, but ſubſervient to the other; In this he gives you uncontrouled Reaſons, to ſa<g ref="char:EOLhyphen"/>tisſie the exuberance of Nature. The great Schollar <hi>Fracanſtorfius,</hi> who wrote many yeers after him, is more full and cleer in his diſquiſitions on this Subject; If I do remember my ſelf rightly, it is in the very ſame place or very neer unto it, where he gives you his Reaſons why <hi>David</hi> being an old Man, was adviſed by a Counſel of his Phyſicians to take a young Maid into his Bed; But I have yet never heard of any Phyloſopher that ſhoweth Reaſons why a man hath two Tongues, nor of any Hiſtorian who declareth that ever any one hath had them.</p>
+            <p>True it is, I have heard many a man to ſay, that his own Wife, or his next Neighbours VVife, hath a thouſand Tongues, which modeſtly I conceive is not ſo much, by reaſon of the Number of ſo many Tongues, as by the perpetual motion of one Tongue. And this indeed is the noyſe and the complaints of every day, and every wind doth blow them over the face of the VVorld, that now they are no ſooner heard, then diſregarded: but for an Infant to be born with two Tongues, and to ſpeak almoſt as ſoon as it was born, is a wonder in earneſt, a wonder as well to be ſeen, as heard, and the great wonder which I come now to declare unto you.</p>
+            <p>In the Subburbs of <hi>London,</hi> in the lower end of <hi>Eaſt-ſmithfield,</hi> at a place called <hi>Knockfergus,</hi> a young woman was brought to bed with a Child that was born with two Tongues, the one in ſome meaſure covering the other, but the lower Tongue appearing to be the more natural, for it ſeemeth to be more firme and longer than the other. The father of it is a poor man, and of a poor trade, but ſuch a one that the beſt Lady in the
+<pb n="5" facs="tcp:151400:5"/>
+               <!-- PDF PAGE 17 -->Land, when ſhe is plagued with Corns, would be glad of his Aſſiſtance. Having a ſharp Knife, and a good dex<g ref="char:EOLhyphen"/>terity in this, he doth get a reaſonable Subſiſtence to live in a hard world, and being a good Corn-cutter, he doth make his harveſt, and thriftily brings it home, as well in Winter as in Summer. His Name is <hi>John Clarke,</hi> and he liveth at the next door to the Sign of the <hi>Soldier</hi> and <hi>Trumpet</hi> at <hi>Knockfergus.</hi> His Wife is a great Pains-taker, and well beloved amongſt her neighbours, who were many of them with her, at the time of her delivery, and did aſſiſt her in her Childing throwes.</p>
+            <p>Three dayes after ſhe was brought to bed, many of her neighbours came to give her a viſit, and ſome of them were witneſſes at the Chriſtning of her Child, whoſe Name was <hi>John,</hi> after the Name of his Father; loo<g ref="char:EOLhyphen"/>king ſtedfaſtly on the Child and kiſſing it, the Child did open its mouth, and they plainly diſcerned that it had two Tongues, which they were loath to diſcover to the mother, who for all ſhe gave it ſuck, had not then the leaſt knowledge of it.</p>
+            <p>Mrs. <hi>Nicholls</hi> her next Neighbour whiſpering to the Midwife, whoſe name is Mrs. <hi>Silk,</hi> concerning it, and the other Neighbours marvelling at it, and deſired that for the preſent it might be kept in private amongſt them<g ref="char:EOLhyphen"/>ſelves, becauſe they were loath to diſquiet the mother, who began to take a little reſt after her hard Travail, with ſuch melancholy News, the Child began to wayle, and to cry out, <hi>A King, A King, A King;</hi>
+            </p>
+            <p>If they were ſurpriſed with wonder to ſee two Tongues, how may we think, they were now tranſported to hear one of them to ſpeak, and to ſpeak ſuch a word, ſo un<g ref="char:EOLhyphen"/>expectedly and diſtinctly.</p>
+            <p>In a ſilence full of amazement, they did now look on one another, the ſpeaking Child had made the Women
+<pb n="6" facs="tcp:151400:6"/>
+               <!-- PDF PAGE 18 -->dumb, which more then all the Bels in the Town ringing at once, or the ratling of the brazen pans can doe when the Moon is in labour: Being all of them for a little re<g ref="char:EOLhyphen"/>ſpit of time thus huſht as midnight, the Child began to ſpeak again, and to repeat thoſe-Words it did expreſs be<g ref="char:EOLhyphen"/>fore, which the Mother hearing, did call for the Child, and did partake of the Wonder with them; they en<g ref="char:EOLhyphen"/>tred into Councel, and concluded that in regard the Name and Authority of a King had been aboliſhed by the Par<g ref="char:EOLhyphen"/>liament, it was not fit it ſhould be divulged; the Mother, therefore did deſire them that they would not make any mention of it, which they pronſiſed to perform; but what muzzle can ſilence the tongue of a woman?</p>
+            <p>From whiſpers at the firſt, it began to grow into open Reports, and the more they did promiſe to ſuppreſs it, the more it was divulged; howſoever the Mother (as ſhe ſaith her ſelf) did tamper with the Child, and as much as ſhe could to make it ſenſible of her, ſhe did forbid it to ſpeak in that Name, which neither ſhe, nor others that did attempt it could ever effect.</p>
+            <p>In a ſhort time the Child with two tongues, and the words in the mouth of it were famous in the City, and divers Gentlewomen of the City did ſend their Coaches for the mother and the Child, who ever now and anon, would cry out <hi>A King, a King, a King;</hi> and if there were any company about it, that it did not like, it will put forth its hand and cry <hi>Away, away<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>This being rumour'd in the City, great Ladies and many perſonages of honour at <hi>Clerken-well</hi> have ſent for the Mother and Child, who not knowing what to make of it, have nevertheleſs been beneficial to the poor Mother of it. It is obſerveable, that whereas other Children go forward, this Child do what they can goes backward.</p>
+            <p>The Age of the Child being three quarters of a yeer.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151400:6"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
